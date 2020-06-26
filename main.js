@@ -1,16 +1,14 @@
-import { createNewMusical, createNewCharacter } from './createNewMusical.js'
+// import { createNewMusical, createNewCharacter } from './createNewMusical.js'
 // import React from 'react'
-
 // class MyComponent extends React.Component {
-
 // }
 
 // import React, { Component } from 'react'
-
 // class MyComponent extends Component {}
+
+import createNewMusical from './createNewMusical.js'
 import createNewSong from './createNewSong.js'
 // your code here
-// go over the default keyword
 
 let phantom = createNewMusical(
   'The Phantom of the Opera',

@@ -10,12 +10,12 @@ const createNewMusical = (title, composer, numberOfTonys) => {
   }
 }
 
-const createNewCharacter = (name) => {
-  return {
-    name,
-  }
-}
+// const createNewCharacter = (name) => {
+//   return {
+//     name,
+//   }
+// }
 
-// export default createNewMusical
+export default createNewMusical
 
-export { createNewMusical, createNewCharacter }
+// export { createNewMusical, createNewCharacter }
